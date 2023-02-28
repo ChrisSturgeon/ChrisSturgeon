@@ -9,7 +9,7 @@ A little bit about me:
 
 #### Languages and Frameworks #####
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mongodbm,jest,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mongodb,jest,express)](https://skillicons.dev)
 
 #### Get in touch ####
 
