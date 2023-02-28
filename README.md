@@ -1,6 +1,6 @@
 ## Hi there! My name is Chris Sturgeon 👋
 
-#### A little bit about me: ##### 
+#### A little bit about me ##### 
 
 - Recently completed The Odin Project and developed a passion for front-end programming along the way.
 - Currently working on Session Hub, a blog and social media app for watersports.
