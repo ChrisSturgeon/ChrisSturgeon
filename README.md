@@ -4,10 +4,17 @@ A little bit about me:
 
 - Recently completed The Odin Project and developed a passion for front-end programming along the way.
 - Currently working on Session Hub, a blog and social media app for watersports.
-- Blogging over at [chrissturgeon.co.uk](https://www.chrissturgeon.co.uk)
+- Blogging over at [chrissturgeon.co.uk](https://www.chrissturgeon.co.uk).
 - Aside from programming I love to get outdoors, either windsurfing on the coast or trail running in the countryside.
 
-[:envelope:](sturgeon.chris@gmail.com)
+#### Languages and Frameworks #####
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mongodbm,jest,express)](https://skillicons.dev)
+
+#### Get in touch ####
+
+- Send me an [email](sturgeon.chris@gmail.com)
+- Find me on [LinkedIn](https://www.linkedin.com/in/chris-sturgeon-36a74254/)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ChrisSturgeon)](https://git.io/streak-stats)
 
